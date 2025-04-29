@@ -1,0 +1,9 @@
+{
+    "signIn": {
+      "email": {
+        "enabled": true,
+        "passwordRequired": true
+      }
+    }
+  }
+      
